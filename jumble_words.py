@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  4 19:51:17 2019
 
-@author: DELL
+@author: vignesh
 """
 import random
 def choose():
